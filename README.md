@@ -1,3 +1,6 @@
 # todos-simple-backend
 
-#### nestjs, mongodb
+#### Built with
+
+- Nestjs
+- Mongodb
